@@ -1,3 +1,3 @@
 # Event KeyCodes
 
-![Documentation](event-keycodes.png)
+![Event KeyCodes](event-keycodes.png)
